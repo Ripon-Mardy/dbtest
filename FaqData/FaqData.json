@@ -1,0 +1,19 @@
+[
+    {
+      "question": "What is your return policy?",
+      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at arcu tempor, commodo nisl quis, suscipit metus."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "Fusce at urna vitae purus ultrices aliquet. Vestibulum et nulla libero."
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Nulla facilisi. Curabitur id posuere ligula, at maximus est."
+    },
+    {
+        "question": "How can I track my order?",
+        "answer": "Fusce at urna vitae purus ultrices aliquet. Vestibulum et nulla libero."
+      }
+  ]
+  
